@@ -1,3 +1,6 @@
+## my 1st blog
+writing my 1st blog
+
 ---
 layout: post
 title: You're up and running!
